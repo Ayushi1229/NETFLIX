@@ -1,0 +1,101 @@
+.header{
+    height: 9vh;
+    width: 100%;
+    background-color: black;
+}
+/* .menuButton{
+    height: 10px;
+    width: 20px;
+} */
+.netflixImg{
+    height: 40px;
+    width: 150px;
+    position: absolute;
+    top: 1.2%;
+    left: 5%;
+}
+.searchButton{
+    height: 30px;
+    width: 40px;
+}
+.dotButton{
+    height: 30px;
+    width: 40px;
+}
+.Money-HeistImg{
+    height: 70vh;
+    width: 100%;
+    background-color: black;
+} 
+.play{
+    height: 55px;
+    width: 150px;
+    position: absolute;
+    top: 3%;
+    left: 1%; 
+}
+.mylist{
+    height: 55px;
+    width: 150px;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+}
+.info{
+    height: 35%;
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    left: 3%;
+    opacity: 55%;
+}
+.sub1{
+    height: 60vh;
+    width: 99%;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 80%;
+    left: 0.5%;
+}
+.row1{
+    height: 45vh;
+    width: 100%;
+    background-color: black;
+}
+.photo1{
+    height: 45vh;
+    width: 30vh;
+    position: absolute;
+    top: 0.1%;
+    left: 0.2%; 
+    background-color: black;
+}
+.sub2{
+    height: 60vh;
+    width: 99%;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 135%;
+    left: 0.5%;
+}
+.row2{
+    height: 45vh;
+    width: 100%;
+    background-color: black;
+}
+.sub3{
+    height: 60vh;
+    width: 99%;
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 190%;
+    left: 0.5%;
+}
+.row3{
+    height: 45vh;
+    width: 100%;
+    background-color: black;
+}

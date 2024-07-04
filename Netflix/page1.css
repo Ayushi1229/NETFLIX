@@ -1,0 +1,71 @@
+.header{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 0.5%;
+    left: 2%;
+}
+.bodyImg{
+    height: 100%;
+    width: 100%;
+    opacity: 100%;
+}
+.login{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: white;
+    opacity: 90%;
+    height: 85%;
+    width: 25%;
+}
+.checkbox{
+    float: left;
+    position: absolute;
+    color: grey;
+    top: 60%;
+    left: 5%;
+}
+.help{
+    float: left;
+    position: absolute;
+    color: grey;
+    top: 60%;
+    left: 68%;
+}
+.about1{
+    float: left;
+    position: absolute;
+    color: grey;
+    top: 75%;
+    left: 5%;
+}
+.about2{
+    float: left;
+    position: absolute;
+    color: white;
+    top: 75%;
+    left: 35%;
+}
+.about3{
+    float: left;
+    position: absolute;
+    color:grey;
+    top: 80%;
+    left: 5%;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    height: 30vh;
+    width: 85%;
+    opacity: 85%;
+    background-color: black;
+    color: grey;
+    position: absolute;
+    top: 94.5vh;
+    left: 1vh;
+}
